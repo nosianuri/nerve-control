@@ -1,0 +1,17 @@
+.banner-btn{
+    background-image: linear-gradient(to right,#7c4c9f 0,#5b2a7e 51%,#232064 100%);
+    cursor: pointer;
+}
+.nerve{
+    /* font-family: 'Poppins', sans-serif; */
+}
+.btn:hover{
+    color: #ffc107;
+}
+.btn-familly{
+    /* font-family: 'Barlow Semi Condensed', sans-serif; */
+    font-family: 'Roboto Serif', serif;
+    font-weight: 500;
+}
+
+/* animation css */
