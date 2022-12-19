@@ -36,8 +36,9 @@ const Banner = () => {
                         </div>
 
                         <div className='text-center mt-5 '>
-                            <a href="#" className='relative group'>
-                                <div className='banner-btn w-4/5 text-white ml-5 py-3 '><p className='lg:text-2xl text-xl btn-familly '>Get Yours from Official Website</p> <p className='text-xs'>Limited Stock Available</p></div>
+                            <a href="#" className=''>
+                            
+                                <div className='banner-btn   w-4/5 text-white ml-5 py-3 '><p className='lg:text-2xl text-xl btn-familly '>Get Yours from Official Website</p> <span className='text-xs'>Limited Stock Available</span></div>
                             </a>
                         </div>
                     </div>

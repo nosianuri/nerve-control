@@ -8,8 +8,8 @@ module.exports = {
     themes: [
       {
         nervetheme: {
-          primary: "#0F274F",
-          secondary: "#2d9760",
+          primary: "#7c4c9f",
+          secondary: "#232064",
           accent: "#2da5ff",
           neutral: "#333",
           "base-100": "#ffffff",
