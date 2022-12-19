@@ -20,21 +20,21 @@ const Mainbody = () => {
         <h4 className='lg:text-xl font-semibold text-[#0becf0] save mb-2'>+ Money Back Guarantee</h4>
         </div>
         <div className='flex flex-col gap-5 lg:flex-row justify-center'>
-        <div className='text-center lg:mt-20 mt-10 '>
-          <h1 className='text-3xl christ'>Big Christmas offer</h1>
+        <div className='text-center lg:mt-20 mt-8 '>
+          <h1 className='lg:text-3xl text-xl christ'>Big Christmas offer</h1>
           
-          <p className='text-5xl font-bold text-red-600'>SALE</p>
+          <p className='lg:text-5xl text-3xl font-bold text-red-600'>SALE</p>
           {/* <p className='text-xl'>Up To 50% Off</p> */}
         </div>
         <a href="https://www.r3hlvtrk.com/3J67C/7ZRJQL1">
-        <img className='lg:w-56 w-36 mx-auto lg:mx-0 rounded-lg mt-10 ' src={cristmas} alt="" />
+        <img className='lg:w-56 w-28   mx-auto lg:mx-0 rounded-lg lg:mt-10 ' src={cristmas} alt="" />
         </a>
         
         </div>
         
         <div>
         <a href="https://www.r3hlvtrk.com/3J67C/7ZRJQL1">
-        <img className='mx-auto mainimg  lg:my-16 my-10' src={mainimg} alt="" />
+        <img className='mx-auto  lg:w-1/2 w-64  lg:my-16 my-10' src={mainimg} alt="" />
         </a>
         
         </div>
