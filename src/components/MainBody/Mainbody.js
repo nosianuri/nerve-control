@@ -34,7 +34,7 @@ const Mainbody = () => {
         
         <div>
         <a href="https://www.r3hlvtrk.com/3J67C/7ZRJQL1">
-        <img className='mx-auto  lg:w-1/2 w-64  lg:my-16 my-10' src={mainimg} alt="" />
+        <img className='mx-auto  lg:w-2/5 w-64  lg:my-16 my-10' src={mainimg} alt="" />
         </a>
         
         </div>
